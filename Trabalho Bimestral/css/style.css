@@ -1,0 +1,216 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 1.5;
+	color: #444;
+	font-size: 100%;
+}
+
+a{
+	color: #000000;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+.container{
+	margin: 0 auto;
+}
+
+img, figure, video, embed{
+	max-width: 100%;
+}
+
+header{
+	width: 100%;
+	height: 48px;
+	margin-top: 36px;
+	margin-bottom: 36px;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.marca{
+	float: left;
+	width: 150px;
+	margin-bottom: 50px;
+}
+
+nav{
+	float: right;
+	width: 840px;
+}
+
+nav ul{
+	float: right;
+}
+
+nav li{
+	font-size: 12px;
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+nav li a{
+	color: #999;
+}
+
+.banner{
+	height: 600px;
+	margin-bottom: 48px;
+	text-align: center;
+}
+
+.banner img{
+	width: 100%;
+}
+
+h1{
+	font-family: monospace;
+	font-size: 40px;
+	font-weight: 200;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.titulo{
+	margin-bottom: 30px;
+}
+
+.index{
+	max-width: 1200px;
+	margin: 0 auto;
+	margin-bottom: 700px;
+}
+
+.coluna{
+	width: 350px;
+	float: left;
+	margin-right: 75px;
+}
+
+.coluna p{
+	text-align: justify;
+
+}
+
+.coluna:last-child{
+	margin-right: 0;
+}
+
+h2{
+	font-size: 24px;
+	text-align: center;
+}
+
+footer{
+	background-color: #87CEFA;
+}
+
+.footer{
+	font-size: 10px;
+	text-align: center;
+}
+
+.sobreemp{
+	max-width: 1200px;
+	margin: 0 auto;
+	margin-bottom: 100px;
+
+}
+
+h3{
+	color: #808080;
+	width: 600px;
+	float: left;
+	text-align: justify;
+	margin-right: 50px;
+}
+
+.index2{
+	margin-top: 200px;
+	margin-left: 150px;
+	margin-bottom: 40px;
+}
+
+.listaprodutos{
+	max-width: 1200px;
+	margin: 0 auto;
+	margin-bottom: 700px;
+}
+
+.colunaprod{
+	width: 275px;
+	float: left;
+	margin-right: 25px;
+	margin-bottom: 80px;
+}
+
+.colunaprod:last-child{
+	margin-right: 0;
+}
+
+h4{
+	font-size: 18px;
+	text-align: center;
+}
+
+.contatos{
+	max-width: 1200px;
+	margin: 0 auto;
+	margin-bottom: 300px;
+}
+
+h5{
+	text-align: justify;
+	font-size: 18px;
+	margin-bottom: 10px;
+	font-family: calibri;
+}
+
+h6{
+	margin-left: 25px;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	font-family: calibri;
+}
+
+.contato{
+	width: 350px;
+	float: left;
+	margin-right: 75px;
+}
+
+.contato:last-child{
+	margin-right: 0;
+}
+
+.mapa{
+	max-width: 1200px;
+	margin: 0 auto;
+	border: 1;
+}
+
+.produtos{
+	max-width: 1200px;
+	margin: 0 auto;
+	margin-bottom: 500px;
+}
+
+.produtos img{
+	max-width: 400px;
+	float: left;
+	margin-right: 30px;
+}
+
+.produtos p{
+	font-family: calibri;
+	font-size: 25px;
+	margin-top: 0px;
+}
+
+.produtos strong{
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+
